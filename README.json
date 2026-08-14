@@ -1,0 +1,197 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hexo Editor",
+          "description": "Electron based editor for Hexo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-02-21T06:09:06Z",
+            "owner": "zhuzhuyule",
+            "repo": "HexoEditor",
+            "stars": 1226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hexo Client",
+          "description": "Cross-Platform Hexo Client",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2023-01-27T04:51:20Z",
+            "owner": "gaoyoubo",
+            "repo": "hexo-client",
+            "stars": 720
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hexo Action",
+          "description": "GitHub Action for Hexo",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Dockerfile",
+            "last_commit": "2021-05-04T04:46:42Z",
+            "owner": "heowc",
+            "repo": "action-hexo",
+            "stars": 31
+          }
+        }
+      ],
+      "title": "Third-party"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Meteor",
+          "description": "Build JavaScript apps and websites using Meteor. Source Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T17:54:13Z",
+            "owner": "meteor",
+            "repo": "meteor",
+            "stars": 44811
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A list of sites created by Hexo",
+          "description": "Hexo wiki",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T18:42:36Z",
+            "owner": "hexojs",
+            "repo": "hexo",
+            "stars": 41770
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Litten",
+          "description": "Hexo theme Yilia author Litten's personal blog. Theme",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-02T10:07:43Z",
+            "owner": "litten",
+            "repo": "hexo-theme-yilia",
+            "stars": 8347
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Theme NexT",
+          "description": "Hexo theme NexT official website. Source Code & Awesome NexT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Stylus",
+            "last_commit": "2024-06-27T10:02:32Z",
+            "owner": "theme-next",
+            "repo": "hexo-theme-next",
+            "stars": 8251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vue.js",
+          "description": "The Progressive JavaScript Framework. Source Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-02T02:13:07Z",
+            "owner": "vuejs",
+            "repo": "v2.vuejs.org",
+            "stars": 4975
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hexo site",
+          "description": "Hexo official site. Source Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Stylus",
+            "last_commit": "2026-08-14T01:42:44Z",
+            "owner": "hexojs",
+            "repo": "site",
+            "stars": 719
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Barret Lee",
+          "description": "Barret Lee's personal website. Source Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-07-19T03:02:26Z",
+            "owner": "barretlee",
+            "repo": "blog",
+            "stars": 181
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vuenut",
+          "description": "Manipulate and visualize state management pattern in the case of vuejs (Vuex). Source Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2018-05-12T05:54:13Z",
+            "owner": "lusaxweb",
+            "repo": "vuenut.org",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jeremy Shaw",
+          "description": "Jeremy Shaw's custom personal blog. Source Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "EJS",
+            "last_commit": "2026-08-09T05:20:50Z",
+            "owner": "puremana",
+            "repo": "personal-blog",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Showcases"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T05:20:44.288Z",
+    "original_repository": "hexojs/awesome-hexo",
+    "original_repository_sha": "8b6a239adb51372a95ae23544f754f45f9a512b7",
+    "enhanced_repository": "enhansome/enhansome-hexo",
+    "enhanced_repository_description": null,
+    "title": "Awesome Hexo with stars"
+  }
+}
