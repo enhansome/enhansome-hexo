@@ -64,10 +64,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T22:05:10Z",
+            "last_commit": "2026-08-18T17:16:09Z",
             "owner": "meteor",
             "repo": "meteor",
-            "stars": 44811
+            "stars": 44810
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-12T18:42:36Z",
             "owner": "hexojs",
             "repo": "hexo",
-            "stars": 41768
+            "stars": 41770
           }
         },
         {
@@ -109,7 +109,7 @@
             "last_commit": "2024-06-27T10:02:32Z",
             "owner": "theme-next",
             "repo": "hexo-theme-next",
-            "stars": 8244
+            "stars": 8243
           }
         },
         {
@@ -134,10 +134,10 @@
           "repo_info": {
             "archived": false,
             "language": "Stylus",
-            "last_commit": "2026-08-18T01:02:49Z",
+            "last_commit": "2026-08-19T01:03:35Z",
             "owner": "hexojs",
             "repo": "site",
-            "stars": 719
+            "stars": 718
           }
         },
         {
@@ -187,7 +187,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T04:20:29.323Z",
+    "last_updated": "2026-08-19T04:22:14.806Z",
     "original_repository": "hexojs/awesome-hexo",
     "original_repository_sha": "8b6a239adb51372a95ae23544f754f45f9a512b7",
     "enhanced_repository": "enhansome/enhansome-hexo",
