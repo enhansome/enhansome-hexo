@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Resources"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 113846861,
             "language": "JavaScript",
             "last_commit": "2019-02-21T06:09:06Z",
             "owner": "zhuzhuyule",
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 108371652,
             "language": "Vue",
             "last_commit": "2023-01-27T04:51:20Z",
             "owner": "gaoyoubo",
@@ -43,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 168853271,
             "language": "Dockerfile",
             "last_commit": "2021-05-04T04:46:42Z",
             "owner": "heowc",
@@ -54,7 +52,7 @@
       "title": "Third-party"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -63,11 +61,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3214406,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T17:16:09Z",
+            "last_commit": "2026-08-19T10:50:38Z",
             "owner": "meteor",
             "repo": "meteor",
-            "stars": 44810
+            "stars": 44809
           }
         },
         {
@@ -77,11 +76,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5923215,
             "language": "TypeScript",
             "last_commit": "2026-08-12T18:42:36Z",
             "owner": "hexojs",
             "repo": "hexo",
-            "stars": 41770
+            "stars": 41772
           }
         },
         {
@@ -91,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23506840,
             "language": "JavaScript",
             "last_commit": "2024-07-02T10:07:43Z",
             "owner": "litten",
@@ -105,11 +106,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115875606,
             "language": "Stylus",
             "last_commit": "2024-06-27T10:02:32Z",
             "owner": "theme-next",
             "repo": "hexo-theme-next",
-            "stars": 8243
+            "stars": 8241
           }
         },
         {
@@ -119,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15644594,
             "language": "JavaScript",
             "last_commit": "2024-07-02T02:13:07Z",
             "owner": "vuejs",
@@ -133,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15822976,
             "language": "Stylus",
             "last_commit": "2026-08-19T01:03:35Z",
             "owner": "hexojs",
@@ -147,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41631454,
             "language": "HTML",
             "last_commit": "2025-07-19T03:02:26Z",
             "owner": "barretlee",
@@ -161,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 129477513,
             "language": "HTML",
             "last_commit": "2018-05-12T05:54:13Z",
             "owner": "lusaxweb",
@@ -175,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 139403941,
             "language": "EJS",
             "last_commit": "2026-08-09T05:20:50Z",
             "owner": "puremana",
@@ -187,8 +194,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T04:22:14.806Z",
+    "last_updated": "2026-08-19T12:33:13.364Z",
     "original_repository": "hexojs/awesome-hexo",
+    "original_repository_id": 89614308,
     "original_repository_sha": "8b6a239adb51372a95ae23544f754f45f9a512b7",
     "enhanced_repository": "enhansome/enhansome-hexo",
     "enhanced_repository_description": null,
