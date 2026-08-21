@@ -63,10 +63,10 @@
             "archived": false,
             "id": 3214406,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T19:09:05Z",
+            "last_commit": "2026-08-20T22:21:02Z",
             "owner": "meteor",
             "repo": "meteor",
-            "stars": 44810
+            "stars": 44809
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-12T18:42:36Z",
             "owner": "hexojs",
             "repo": "hexo",
-            "stars": 41771
+            "stars": 41772
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2024-07-02T10:07:43Z",
             "owner": "litten",
             "repo": "hexo-theme-yilia",
-            "stars": 8347
+            "stars": 8348
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2024-06-27T10:02:32Z",
             "owner": "theme-next",
             "repo": "hexo-theme-next",
-            "stars": 8241
+            "stars": 8239
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2024-07-02T02:13:07Z",
             "owner": "vuejs",
             "repo": "v2.vuejs.org",
-            "stars": 4974
+            "stars": 4973
           }
         },
         {
@@ -138,10 +138,10 @@
             "archived": false,
             "id": 15822976,
             "language": "Stylus",
-            "last_commit": "2026-08-20T01:03:14Z",
+            "last_commit": "2026-08-21T01:06:53Z",
             "owner": "hexojs",
             "repo": "site",
-            "stars": 718
+            "stars": 719
           }
         },
         {
@@ -194,7 +194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T04:22:15.302Z",
+    "last_updated": "2026-08-21T04:24:27.949Z",
     "original_repository": "hexojs/awesome-hexo",
     "original_repository_id": 89614308,
     "original_repository_sha": "8b6a239adb51372a95ae23544f754f45f9a512b7",
