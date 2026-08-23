@@ -66,7 +66,7 @@
             "last_commit": "2026-08-22T02:21:05Z",
             "owner": "meteor",
             "repo": "meteor",
-            "stars": 44809
+            "stars": 44810
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-12T18:42:36Z",
             "owner": "hexojs",
             "repo": "hexo",
-            "stars": 41770
+            "stars": 41769
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2024-06-27T10:02:32Z",
             "owner": "theme-next",
             "repo": "hexo-theme-next",
-            "stars": 8240
+            "stars": 8239
           }
         },
         {
@@ -138,7 +138,7 @@
             "archived": false,
             "id": 15822976,
             "language": "Stylus",
-            "last_commit": "2026-08-22T01:03:39Z",
+            "last_commit": "2026-08-23T01:08:38Z",
             "owner": "hexojs",
             "repo": "site",
             "stars": 719
@@ -194,7 +194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T04:17:42.023Z",
+    "last_updated": "2026-08-23T04:23:44.531Z",
     "original_repository": "hexojs/awesome-hexo",
     "original_repository_id": 89614308,
     "original_repository_sha": "8b6a239adb51372a95ae23544f754f45f9a512b7",
