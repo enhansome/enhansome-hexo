@@ -67,8 +67,8 @@
 
 ## Showcases
 
-* [Meteor](https://docs.meteor.com/) - Build JavaScript apps and websites using Meteor. [Source Code](https://github.com/meteor/meteor/tree/devel/docs) ⭐ 44,811 | 🐛 413 | 🌐 JavaScript | 📅 2026-08-22
-* [A list of sites created by Hexo](https://github.com/hexojs/hexo/wiki/Sites) ⭐ 41,772 | 🐛 77 | 🌐 TypeScript | 📅 2026-08-12 - Hexo wiki
+* [Meteor](https://docs.meteor.com/) - Build JavaScript apps and websites using Meteor. [Source Code](https://github.com/meteor/meteor/tree/devel/docs) ⭐ 44,812 | 🐛 414 | 🌐 JavaScript | 📅 2026-08-24
+* [A list of sites created by Hexo](https://github.com/hexojs/hexo/wiki/Sites) ⭐ 41,773 | 🐛 77 | 🌐 TypeScript | 📅 2026-08-12 - Hexo wiki
 * [Litten](https://web.archive.org/web/20210617214124/http://litten.me/) - Hexo theme **Yilia** author Litten's personal blog. [Theme](https://github.com/litten/hexo-theme-yilia) ⭐ 8,348 | 🐛 461 | 🌐 JavaScript | 📅 2024-07-02
 * [Theme NexT](https://theme-next.org) - Hexo theme **NexT** official website. [Source Code](https://github.com/theme-next/hexo-theme-next) ⭐ 8,239 | 🐛 97 | 🌐 Stylus | 📅 2024-06-27 & [Awesome NexT](https://github.com/theme-next/awesome-next) ⭐ 113 | 🐛 6 | 📅 2020-04-02
 * [Vue.js](https://v2.vuejs.org/) - The Progressive JavaScript Framework. [Source Code](https://github.com/vuejs/v2.vuejs.org) ⭐ 4,974 | 🐛 242 | 🌐 JavaScript | 📅 2024-07-02

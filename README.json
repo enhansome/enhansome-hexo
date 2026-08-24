@@ -63,10 +63,10 @@
             "archived": false,
             "id": 3214406,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T02:21:05Z",
+            "last_commit": "2026-08-24T14:20:34Z",
             "owner": "meteor",
             "repo": "meteor",
-            "stars": 44811
+            "stars": 44812
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-12T18:42:36Z",
             "owner": "hexojs",
             "repo": "hexo",
-            "stars": 41772
+            "stars": 41773
           }
         },
         {
@@ -194,7 +194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:30:45.962Z",
+    "last_updated": "2026-08-24T14:22:33.534Z",
     "original_repository": "hexojs/awesome-hexo",
     "original_repository_id": 89614308,
     "original_repository_sha": "8b6a239adb51372a95ae23544f754f45f9a512b7",
