@@ -15,7 +15,7 @@
             "last_commit": "2019-02-21T06:09:06Z",
             "owner": "zhuzhuyule",
             "repo": "HexoEditor",
-            "stars": 1226
+            "stars": 1225
           }
         },
         {
@@ -63,7 +63,7 @@
             "archived": false,
             "id": 3214406,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T21:36:33Z",
+            "last_commit": "2026-08-27T10:57:20Z",
             "owner": "meteor",
             "repo": "meteor",
             "stars": 44814
@@ -78,10 +78,10 @@
             "archived": false,
             "id": 5923215,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T18:42:36Z",
+            "last_commit": "2026-08-27T02:48:00Z",
             "owner": "hexojs",
             "repo": "hexo",
-            "stars": 41772
+            "stars": 41776
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2024-07-02T10:07:43Z",
             "owner": "litten",
             "repo": "hexo-theme-yilia",
-            "stars": 8348
+            "stars": 8347
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2024-06-27T10:02:32Z",
             "owner": "theme-next",
             "repo": "hexo-theme-next",
-            "stars": 8238
+            "stars": 8237
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2024-07-02T02:13:07Z",
             "owner": "vuejs",
             "repo": "v2.vuejs.org",
-            "stars": 4974
+            "stars": 4975
           }
         },
         {
@@ -138,7 +138,7 @@
             "archived": false,
             "id": 15822976,
             "language": "Stylus",
-            "last_commit": "2026-08-26T01:07:03Z",
+            "last_commit": "2026-08-27T07:13:50Z",
             "owner": "hexojs",
             "repo": "site",
             "stars": 719
@@ -194,9 +194,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T04:25:28.263Z",
-    "original_repository": "hexojs/awesome-hexo",
-    "original_repository_id": 89614308,
+    "last_updated": "2026-08-27T11:43:28.196Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 89614308,
+      "language": null,
+      "last_commit": "2025-09-02T08:13:31Z",
+      "owner": "hexojs",
+      "repo": "awesome-hexo",
+      "stars": 663
+    },
     "original_repository_sha": "8b6a239adb51372a95ae23544f754f45f9a512b7",
     "enhanced_repository": "enhansome/enhansome-hexo",
     "enhanced_repository_description": null,
