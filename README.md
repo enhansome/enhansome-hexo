@@ -67,7 +67,7 @@
 
 ## Showcases
 
-* [Meteor](https://docs.meteor.com/) - Build JavaScript apps and websites using Meteor. [Source Code](https://github.com/meteor/meteor/tree/devel/docs) ⭐ 44,814 | 🐛 390 | 🌐 JavaScript | 📅 2026-08-27
+* [Meteor](https://docs.meteor.com/) - Build JavaScript apps and websites using Meteor. [Source Code](https://github.com/meteor/meteor/tree/devel/docs) ⭐ 44,814 | 🐛 389 | 🌐 JavaScript | 📅 2026-08-27
 * [A list of sites created by Hexo](https://github.com/hexojs/hexo/wiki/Sites) ⭐ 41,776 | 🐛 76 | 🌐 TypeScript | 📅 2026-08-27 - Hexo wiki
 * [Litten](https://web.archive.org/web/20210617214124/http://litten.me/) - Hexo theme **Yilia** author Litten's personal blog. [Theme](https://github.com/litten/hexo-theme-yilia) ⭐ 8,347 | 🐛 461 | 🌐 JavaScript | 📅 2024-07-02
 * [Theme NexT](https://theme-next.org) - Hexo theme **NexT** official website. [Source Code](https://github.com/theme-next/hexo-theme-next) ⭐ 8,237 | 🐛 97 | 🌐 Stylus | 📅 2024-06-27 & [Awesome NexT](https://github.com/theme-next/awesome-next) ⭐ 113 | 🐛 6 | 📅 2020-04-02

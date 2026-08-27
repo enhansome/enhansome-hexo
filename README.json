@@ -63,7 +63,7 @@
             "archived": false,
             "id": 3214406,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T10:57:20Z",
+            "last_commit": "2026-08-27T14:43:32Z",
             "owner": "meteor",
             "repo": "meteor",
             "stars": 44814
@@ -194,7 +194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:43:28.196Z",
+    "last_updated": "2026-08-27T14:47:57.487Z",
     "original_repository_info": {
       "archived": false,
       "id": 89614308,
