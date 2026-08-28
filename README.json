@@ -16,7 +16,8 @@
             "owner": "zhuzhuyule",
             "repo": "HexoEditor",
             "stars": 1225
-          }
+          },
+          "first_seen": "2026-08-28T15:41:38.371Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "gaoyoubo",
             "repo": "hexo-client",
             "stars": 720
-          }
+          },
+          "first_seen": "2026-08-28T15:41:38.371Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "heowc",
             "repo": "action-hexo",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T15:41:38.371Z"
         }
       ],
       "title": "Third-party"
@@ -63,11 +66,12 @@
             "archived": false,
             "id": 3214406,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T14:43:32Z",
+            "last_commit": "2026-08-28T14:05:36Z",
             "owner": "meteor",
             "repo": "meteor",
-            "stars": 44814
-          }
+            "stars": 44813
+          },
+          "first_seen": "2026-08-28T15:41:38.371Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "hexojs",
             "repo": "hexo",
             "stars": 41776
-          }
+          },
+          "first_seen": "2026-08-28T15:41:38.371Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "litten",
             "repo": "hexo-theme-yilia",
             "stars": 8347
-          }
+          },
+          "first_seen": "2026-08-28T15:41:38.371Z"
         },
         {
           "node_type": "item",
@@ -111,8 +117,9 @@
             "last_commit": "2024-06-27T10:02:32Z",
             "owner": "theme-next",
             "repo": "hexo-theme-next",
-            "stars": 8237
-          }
+            "stars": 8236
+          },
+          "first_seen": "2026-08-28T15:41:38.371Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "vuejs",
             "repo": "v2.vuejs.org",
             "stars": 4975
-          }
+          },
+          "first_seen": "2026-08-28T15:41:38.371Z"
         },
         {
           "node_type": "item",
@@ -138,11 +146,12 @@
             "archived": false,
             "id": 15822976,
             "language": "Stylus",
-            "last_commit": "2026-08-27T07:13:50Z",
+            "last_commit": "2026-08-28T09:26:40Z",
             "owner": "hexojs",
             "repo": "site",
             "stars": 719
-          }
+          },
+          "first_seen": "2026-08-28T15:41:38.371Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "barretlee",
             "repo": "blog",
             "stars": 181
-          }
+          },
+          "first_seen": "2026-08-28T15:41:38.371Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "lusaxweb",
             "repo": "vuenut.org",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T15:41:38.371Z"
         },
         {
           "node_type": "item",
@@ -187,14 +198,15 @@
             "owner": "puremana",
             "repo": "personal-blog",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T15:41:38.371Z"
         }
       ],
       "title": "Showcases"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T14:47:57.487Z",
+    "last_updated": "2026-08-28T15:41:38.371Z",
     "original_repository_info": {
       "archived": false,
       "id": 89614308,
