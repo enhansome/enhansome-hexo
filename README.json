@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "this markdown Editor for hexo blog",
+            "homepage": null,
             "id": 113846861,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2019-02-21T06:09:06Z",
+            "open_issues": 49,
             "owner": "zhuzhuyule",
             "repo": "HexoEditor",
-            "stars": 1225
+            "stars": 1225,
+            "topics": [
+              "electron-app",
+              "hexoeditor",
+              "hexomarkdown",
+              "markdown",
+              "markdown-editor",
+              "moeditor"
+            ]
           },
           "first_seen": "2026-08-28T15:41:38.371Z"
         },
@@ -26,12 +38,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "hexo-client: A cross-platform hexo client, build on electron.",
+            "homepage": "https://www.mspring.org/tags/HexoClient/",
             "id": 108371652,
             "language": "Vue",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-27T04:51:20Z",
+            "open_issues": 44,
             "owner": "gaoyoubo",
             "repo": "hexo-client",
-            "stars": 720
+            "stars": 720,
+            "topics": [
+              "electron",
+              "electron-app",
+              "electron-vue",
+              "hexo",
+              "hexo-client",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T15:41:38.371Z"
         },
@@ -42,12 +66,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 168853271,
             "language": "Dockerfile",
+            "license": "MIT",
             "last_commit": "2021-05-04T04:46:42Z",
+            "open_issues": 1,
             "owner": "heowc",
             "repo": "action-hexo",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "github-actions",
+              "hacktoberfest",
+              "hexo"
+            ]
           },
           "first_seen": "2026-08-28T15:41:38.371Z"
         }
@@ -64,12 +97,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Meteor, the JavaScript App Platform",
+            "homepage": "https://meteor.com",
             "id": 3214406,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T14:05:36Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:14:27Z",
+            "open_issues": 357,
             "owner": "meteor",
             "repo": "meteor",
-            "stars": 44813
+            "stars": 44813,
+            "topics": [
+              "build-system",
+              "framework",
+              "hacktoberfest",
+              "javascript",
+              "meteor",
+              "mongodb",
+              "nodejs",
+              "npm",
+              "react",
+              "reactive-programming",
+              "realtime",
+              "rpc",
+              "zero-configuration"
+            ]
           },
           "first_seen": "2026-08-28T15:41:38.371Z"
         },
@@ -80,12 +132,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast, simple & powerful blog framework, powered by Node.js.",
+            "homepage": "https://hexo.io",
             "id": 5923215,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T02:48:00Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T16:30:12Z",
+            "open_issues": 76,
             "owner": "hexojs",
             "repo": "hexo",
-            "stars": 41776
+            "stars": 41777,
+            "topics": [
+              "hacktoberfest",
+              "hexo",
+              "javascript",
+              "nodejs",
+              "static-site-generator",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T15:41:38.371Z"
         },
@@ -96,12 +160,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一个简洁优雅的hexo主题  A simple and elegant theme for hexo.",
+            "homepage": "http://litten.me/",
             "id": 23506840,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-07-02T10:07:43Z",
+            "open_issues": 461,
             "owner": "litten",
             "repo": "hexo-theme-yilia",
-            "stars": 8347
+            "stars": 8347,
+            "topics": [
+              "hexo",
+              "hexo-theme",
+              "hexo-theme-yilia"
+            ]
           },
           "first_seen": "2026-08-28T15:41:38.371Z"
         },
@@ -112,12 +185,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Elegant and powerful theme for Hexo.",
+            "homepage": "https://theme-next.org",
             "id": 115875606,
             "language": "Stylus",
+            "license": "NOASSERTION",
             "last_commit": "2024-06-27T10:02:32Z",
+            "open_issues": 97,
             "owner": "theme-next",
             "repo": "hexo-theme-next",
-            "stars": 8236
+            "stars": 8236,
+            "topics": [
+              "hexo",
+              "hexo-theme",
+              "theme-next"
+            ]
           },
           "first_seen": "2026-08-28T15:41:38.371Z"
         },
@@ -128,12 +210,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📄 Documentation for Vue 2",
+            "homepage": "https://v2.vuejs.org",
             "id": 15644594,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-07-02T02:13:07Z",
+            "open_issues": 242,
             "owner": "vuejs",
             "repo": "v2.vuejs.org",
-            "stars": 4975
+            "stars": 4975,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:41:38.371Z"
         },
@@ -144,12 +231,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The website for Hexo. https://hexo.io/",
+            "homepage": "https://hexo.io",
             "id": 15822976,
             "language": "Stylus",
+            "license": "MIT",
             "last_commit": "2026-08-28T09:26:40Z",
+            "open_issues": 39,
             "owner": "hexojs",
             "repo": "site",
-            "stars": 719
+            "stars": 719,
+            "topics": [
+              "hexo",
+              "hexo-blog",
+              "hexo-site"
+            ]
           },
           "first_seen": "2026-08-28T15:41:38.371Z"
         },
@@ -160,12 +256,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Blog & Blog System",
+            "homepage": "https://www.barretlee.com/",
             "id": 41631454,
             "language": "HTML",
+            "license": null,
             "last_commit": "2025-07-19T03:02:26Z",
+            "open_issues": 414,
             "owner": "barretlee",
             "repo": "blog",
-            "stars": 181
+            "stars": 181,
+            "topics": [
+              "blog",
+              "blog-engine",
+              "blog-source",
+              "hexo"
+            ]
           },
           "first_seen": "2026-08-28T15:41:38.371Z"
         },
@@ -176,12 +282,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vuenut.org",
+            "homepage": "https://lusaxweb.github.io/vuenut.org/",
             "id": 129477513,
             "language": "HTML",
+            "license": null,
             "last_commit": "2018-05-12T05:54:13Z",
+            "open_issues": 0,
             "owner": "lusaxweb",
             "repo": "vuenut.org",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "documentation",
+              "organization",
+              "page",
+              "vue",
+              "vuejs",
+              "vuenut"
+            ]
           },
           "first_seen": "2026-08-28T15:41:38.371Z"
         },
@@ -192,12 +310,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Personal blog with custom theme made using hexo",
+            "homepage": "https://blog.jeremyshaw.co.nz/",
             "id": 139403941,
             "language": "EJS",
+            "license": "MIT",
             "last_commit": "2026-08-09T05:20:50Z",
+            "open_issues": 9,
             "owner": "puremana",
             "repo": "personal-blog",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "blog",
+              "firebase",
+              "hexo",
+              "javascript"
+            ]
           },
           "first_seen": "2026-08-28T15:41:38.371Z"
         }
@@ -206,15 +334,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T15:41:38.371Z",
+    "last_updated": "2026-08-29T04:39:49.784Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome things related to Hexo",
+      "homepage": null,
       "id": 89614308,
       "language": null,
+      "license": "MIT",
       "last_commit": "2025-09-02T08:13:31Z",
+      "open_issues": 0,
       "owner": "hexojs",
       "repo": "awesome-hexo",
-      "stars": 663
+      "stars": 663,
+      "topics": [
+        "awesome-list",
+        "hexo",
+        "hexo-plugin",
+        "hexo-theme",
+        "hexo-tutorial",
+        "showcase"
+      ]
     },
     "original_repository_sha": "8b6a239adb51372a95ae23544f754f45f9a512b7",
     "enhanced_repository": "enhansome/enhansome-hexo",
