@@ -137,8 +137,8 @@
             "id": 5923215,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-28T16:30:12Z",
-            "open_issues": 76,
+            "last_commit": "2026-08-29T09:36:32Z",
+            "open_issues": 74,
             "owner": "hexojs",
             "repo": "hexo",
             "stars": 41777,
@@ -236,7 +236,7 @@
             "id": 15822976,
             "language": "Stylus",
             "license": "MIT",
-            "last_commit": "2026-08-28T09:26:40Z",
+            "last_commit": "2026-08-29T05:34:37Z",
             "open_issues": 39,
             "owner": "hexojs",
             "repo": "site",
@@ -334,7 +334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:39:49.784Z",
+    "last_updated": "2026-08-29T10:26:50.827Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Hexo",
