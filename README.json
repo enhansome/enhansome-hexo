@@ -141,7 +141,7 @@
             "open_issues": 74,
             "owner": "hexojs",
             "repo": "hexo",
-            "stars": 41777,
+            "stars": 41775,
             "topics": [
               "hacktoberfest",
               "hexo",
@@ -236,8 +236,8 @@
             "id": 15822976,
             "language": "Stylus",
             "license": "MIT",
-            "last_commit": "2026-08-29T05:34:37Z",
-            "open_issues": 39,
+            "last_commit": "2026-08-30T03:33:27Z",
+            "open_issues": 40,
             "owner": "hexojs",
             "repo": "site",
             "stars": 719,
@@ -334,7 +334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T10:26:50.827Z",
+    "last_updated": "2026-08-30T09:28:56.963Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Hexo",
