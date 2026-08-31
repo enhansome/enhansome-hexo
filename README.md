@@ -68,11 +68,11 @@
 ## Showcases
 
 * [Meteor](https://docs.meteor.com/) - Build JavaScript apps and websites using Meteor. [Source Code](https://github.com/meteor/meteor/tree/devel/docs) ⭐ 44,813 | 🐛 357 | 🌐 JavaScript | 📅 2026-08-29
-* [A list of sites created by Hexo](https://github.com/hexojs/hexo/wiki/Sites) ⭐ 41,775 | 🐛 74 | 🌐 TypeScript | 📅 2026-08-29 - Hexo wiki
+* [A list of sites created by Hexo](https://github.com/hexojs/hexo/wiki/Sites) ⭐ 41,774 | 🐛 74 | 🌐 TypeScript | 📅 2026-08-29 - Hexo wiki
 * [Litten](https://web.archive.org/web/20210617214124/http://litten.me/) - Hexo theme **Yilia** author Litten's personal blog. [Theme](https://github.com/litten/hexo-theme-yilia) ⭐ 8,347 | 🐛 461 | 🌐 JavaScript | 📅 2024-07-02
 * [Theme NexT](https://theme-next.org) - Hexo theme **NexT** official website. [Source Code](https://github.com/theme-next/hexo-theme-next) ⭐ 8,236 | 🐛 97 | 🌐 Stylus | 📅 2024-06-27 & [Awesome NexT](https://github.com/theme-next/awesome-next) ⭐ 113 | 🐛 6 | 📅 2020-04-02
 * [Vue.js](https://v2.vuejs.org/) - The Progressive JavaScript Framework. [Source Code](https://github.com/vuejs/v2.vuejs.org) ⭐ 4,975 | 🐛 242 | 🌐 JavaScript | 📅 2024-07-02
-* [Hexo site](https://hexo.io/) - Hexo official site. [Source Code](https://github.com/hexojs/site) ⭐ 719 | 🐛 40 | 🌐 Stylus | 📅 2026-08-30
+* [Hexo site](https://hexo.io/) - Hexo official site. [Source Code](https://github.com/hexojs/site) ⭐ 719 | 🐛 43 | 🌐 Stylus | 📅 2026-08-31
 * [Barret Lee](https://www.barretlee.com/) - Barret Lee's personal website. [Source Code](https://github.com/barretlee/blog) ⭐ 181 | 🐛 414 | 🌐 HTML | 📅 2025-07-19
 * [Vuenut](https://lusaxweb.github.io/vuenut.org/) - Manipulate and visualize state management pattern in the case of vuejs (Vuex). [Source Code](https://github.com/lusaxweb/vuenut.org) ⭐ 2 | 🐛 0 | 🌐 HTML | 📅 2018-05-12
 * [Jeremy Shaw](https://blog.jeremyshaw.co.nz/) - Jeremy Shaw's custom personal blog. [Source Code](https://github.com/puremana/personal-blog) ⭐ 0 | 🐛 9 | 🌐 EJS | 📅 2026-08-09
@@ -97,4 +97,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
