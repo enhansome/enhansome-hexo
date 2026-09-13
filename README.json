@@ -19,7 +19,7 @@
             "open_issues": 49,
             "owner": "zhuzhuyule",
             "repo": "HexoEditor",
-            "stars": 1225,
+            "stars": 1226,
             "topics": [
               "electron-app",
               "hexoeditor",
@@ -103,7 +103,7 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-09-12T07:46:53Z",
-            "open_issues": 323,
+            "open_issues": 332,
             "owner": "meteor",
             "repo": "meteor",
             "stars": 44803,
@@ -236,8 +236,8 @@
             "id": 15822976,
             "language": "Stylus",
             "license": "MIT",
-            "last_commit": "2026-09-12T03:03:42Z",
-            "open_issues": 37,
+            "last_commit": "2026-09-13T03:04:45Z",
+            "open_issues": 38,
             "owner": "hexojs",
             "repo": "site",
             "stars": 719,
@@ -334,7 +334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T08:08:54.846Z",
+    "last_updated": "2026-09-13T08:34:12.907Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Hexo",
