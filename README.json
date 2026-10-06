@@ -141,7 +141,7 @@
             "open_issues": 78,
             "owner": "hexojs",
             "repo": "hexo",
-            "stars": 41773,
+            "stars": 41774,
             "topics": [
               "hacktoberfest",
               "hexo",
@@ -334,7 +334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:36:37.291Z",
+    "last_updated": "2026-10-06T11:09:10.262Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Hexo",
