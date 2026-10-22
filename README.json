@@ -102,7 +102,7 @@
             "id": 3214406,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-20T14:57:57Z",
+            "last_commit": "2026-10-22T08:37:37Z",
             "open_issues": 350,
             "owner": "meteor",
             "repo": "meteor",
@@ -137,11 +137,11 @@
             "id": 5923215,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-20T02:52:40Z",
-            "open_issues": 79,
+            "last_commit": "2026-10-21T23:52:51Z",
+            "open_issues": 83,
             "owner": "hexojs",
             "repo": "hexo",
-            "stars": 41777,
+            "stars": 41779,
             "topics": [
               "hacktoberfest",
               "hexo",
@@ -169,7 +169,7 @@
             "open_issues": 461,
             "owner": "litten",
             "repo": "hexo-theme-yilia",
-            "stars": 8340,
+            "stars": 8341,
             "topics": [
               "hexo",
               "hexo-theme",
@@ -194,7 +194,7 @@
             "open_issues": 97,
             "owner": "theme-next",
             "repo": "hexo-theme-next",
-            "stars": 8212,
+            "stars": 8211,
             "topics": [
               "hexo",
               "hexo-theme",
@@ -236,7 +236,7 @@
             "id": 15822976,
             "language": "Stylus",
             "license": "MIT",
-            "last_commit": "2026-10-21T03:15:28Z",
+            "last_commit": "2026-10-22T03:13:57Z",
             "open_issues": 39,
             "owner": "hexojs",
             "repo": "site",
@@ -334,7 +334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T08:53:56.312Z",
+    "last_updated": "2026-10-22T08:56:27.413Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Hexo",
@@ -346,7 +346,7 @@
       "open_issues": 1,
       "owner": "hexojs",
       "repo": "awesome-hexo",
-      "stars": 663,
+      "stars": 664,
       "topics": [
         "awesome-list",
         "hexo",

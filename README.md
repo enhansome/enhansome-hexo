@@ -67,12 +67,12 @@
 
 ## Showcases
 
-* [Meteor](https://docs.meteor.com/) - Build JavaScript apps and websites using Meteor. [Source Code](https://github.com/meteor/meteor/tree/devel/docs) ⭐ 44,793 | 🐛 350 | 🌐 JavaScript | 📅 2026-10-20
-* [A list of sites created by Hexo](https://github.com/hexojs/hexo/wiki/Sites) ⭐ 41,777 | 🐛 79 | 🌐 TypeScript | 📅 2026-10-20 - Hexo wiki
-* [Litten](https://web.archive.org/web/20210617214124/http://litten.me/) - Hexo theme **Yilia** author Litten's personal blog. [Theme](https://github.com/litten/hexo-theme-yilia) ⭐ 8,340 | 🐛 461 | 🌐 JavaScript | 📅 2024-07-02
-* [Theme NexT](https://theme-next.org) - Hexo theme **NexT** official website. [Source Code](https://github.com/theme-next/hexo-theme-next) ⭐ 8,212 | 🐛 97 | 🌐 Stylus | 📅 2024-06-27 & [Awesome NexT](https://github.com/theme-next/awesome-next) ⭐ 113 | 🐛 6 | 📅 2020-04-02
+* [Meteor](https://docs.meteor.com/) - Build JavaScript apps and websites using Meteor. [Source Code](https://github.com/meteor/meteor/tree/devel/docs) ⭐ 44,793 | 🐛 350 | 🌐 JavaScript | 📅 2026-10-22
+* [A list of sites created by Hexo](https://github.com/hexojs/hexo/wiki/Sites) ⭐ 41,779 | 🐛 83 | 🌐 TypeScript | 📅 2026-10-21 - Hexo wiki
+* [Litten](https://web.archive.org/web/20210617214124/http://litten.me/) - Hexo theme **Yilia** author Litten's personal blog. [Theme](https://github.com/litten/hexo-theme-yilia) ⭐ 8,341 | 🐛 461 | 🌐 JavaScript | 📅 2024-07-02
+* [Theme NexT](https://theme-next.org) - Hexo theme **NexT** official website. [Source Code](https://github.com/theme-next/hexo-theme-next) ⭐ 8,211 | 🐛 97 | 🌐 Stylus | 📅 2024-06-27 & [Awesome NexT](https://github.com/theme-next/awesome-next) ⭐ 113 | 🐛 6 | 📅 2020-04-02
 * [Vue.js](https://v2.vuejs.org/) - The Progressive JavaScript Framework. [Source Code](https://github.com/vuejs/v2.vuejs.org) ⭐ 4,974 | 🐛 241 | 🌐 JavaScript | 📅 2024-07-02
-* [Hexo site](https://hexo.io/) - Hexo official site. [Source Code](https://github.com/hexojs/site) ⭐ 721 | 🐛 39 | 🌐 Stylus | 📅 2026-10-21
+* [Hexo site](https://hexo.io/) - Hexo official site. [Source Code](https://github.com/hexojs/site) ⭐ 721 | 🐛 39 | 🌐 Stylus | 📅 2026-10-22
 * [Barret Lee](https://www.barretlee.com/) - Barret Lee's personal website. [Source Code](https://github.com/barretlee/blog) ⭐ 181 | 🐛 414 | 🌐 HTML | 📅 2025-07-19
 * [Vuenut](https://lusaxweb.github.io/vuenut.org/) - Manipulate and visualize state management pattern in the case of vuejs (Vuex). [Source Code](https://github.com/lusaxweb/vuenut.org) ⭐ 2 | 🐛 0 | 🌐 HTML | 📅 2018-05-12
 * [Jeremy Shaw](https://blog.jeremyshaw.co.nz/) - Jeremy Shaw's custom personal blog. [Source Code](https://github.com/puremana/personal-blog) ⭐ 0 | 🐛 9 | 🌐 EJS | 📅 2026-08-09
@@ -83,7 +83,7 @@
 
 ## Deployment
 
-* [docker-hexo](https://github.com/RammusXu/docker-hexo) ⭐ 10 | 🐛 0 | 🌐 Shell | 📅 2020-07-29 - Write a blog and develop it in a docker environment. Easily set up and release using docker
+* [docker-hexo](https://github.com/RammusXu/docker-hexo) ⭐ 11 | 🐛 0 | 🌐 Shell | 📅 2020-07-29 - Write a blog and develop it in a docker environment. Easily set up and release using docker
 * [CloudRay](https://cloudray.io/articles/how-to-deploy-your-hexo-site) - Learn hown to automate the deployment of Hexo on Ubuntu using CloudRay, a centralised platform that helps you automate server tasks through Bash scripting.
 
 <!---- Content should above this line ---->
@@ -97,4 +97,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
