@@ -102,11 +102,11 @@
             "id": 3214406,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-22T08:37:37Z",
+            "last_commit": "2026-10-23T01:51:00Z",
             "open_issues": 350,
             "owner": "meteor",
             "repo": "meteor",
-            "stars": 44793,
+            "stars": 44794,
             "topics": [
               "build-system",
               "framework",
@@ -219,7 +219,7 @@
             "open_issues": 241,
             "owner": "vuejs",
             "repo": "v2.vuejs.org",
-            "stars": 4974,
+            "stars": 4975,
             "topics": []
           },
           "first_seen": "2026-08-28T15:41:38.371Z"
@@ -236,7 +236,7 @@
             "id": 15822976,
             "language": "Stylus",
             "license": "MIT",
-            "last_commit": "2026-10-22T03:13:57Z",
+            "last_commit": "2026-10-23T03:19:47Z",
             "open_issues": 39,
             "owner": "hexojs",
             "repo": "site",
@@ -334,7 +334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T08:56:27.413Z",
+    "last_updated": "2026-10-23T08:51:18.665Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Hexo",
