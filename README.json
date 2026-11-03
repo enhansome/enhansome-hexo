@@ -47,7 +47,7 @@
             "open_issues": 44,
             "owner": "gaoyoubo",
             "repo": "hexo-client",
-            "stars": 720,
+            "stars": 721,
             "topics": [
               "electron",
               "electron-app",
@@ -102,8 +102,8 @@
             "id": 3214406,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-30T21:24:06Z",
-            "open_issues": 428,
+            "last_commit": "2026-11-02T12:31:56Z",
+            "open_issues": 433,
             "owner": "meteor",
             "repo": "meteor",
             "stars": 44800,
@@ -141,7 +141,7 @@
             "open_issues": 82,
             "owner": "hexojs",
             "repo": "hexo",
-            "stars": 41782,
+            "stars": 41784,
             "topics": [
               "hacktoberfest",
               "hexo",
@@ -169,7 +169,7 @@
             "open_issues": 461,
             "owner": "litten",
             "repo": "hexo-theme-yilia",
-            "stars": 8337,
+            "stars": 8335,
             "topics": [
               "hexo",
               "hexo-theme",
@@ -216,10 +216,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-07-02T02:13:07Z",
-            "open_issues": 240,
+            "open_issues": 239,
             "owner": "vuejs",
             "repo": "v2.vuejs.org",
-            "stars": 4976,
+            "stars": 4974,
             "topics": []
           },
           "first_seen": "2026-08-28T15:41:38.371Z"
@@ -236,7 +236,7 @@
             "id": 15822976,
             "language": "Stylus",
             "license": "MIT",
-            "last_commit": "2026-11-02T04:20:43Z",
+            "last_commit": "2026-11-03T05:17:39Z",
             "open_issues": 40,
             "owner": "hexojs",
             "repo": "site",
@@ -334,7 +334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T11:42:31.966Z",
+    "last_updated": "2026-11-03T11:23:22.608Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Hexo",
