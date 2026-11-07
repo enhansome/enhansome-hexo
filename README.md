@@ -60,19 +60,19 @@
 
 ## Third-party
 
-* [Hexo Editor](https://github.com/zhuzhuyule/HexoEditor) ⭐ 1,226 | 🐛 49 | 🌐 JavaScript | 📅 2019-02-21 - Electron based editor for Hexo
-* [Hexo Client](https://github.com/gaoyoubo/hexo-client) ⭐ 721 | 🐛 44 | 🌐 Vue | 📅 2023-01-27 - Cross-Platform Hexo Client
+* [Hexo Editor](https://github.com/zhuzhuyule/HexoEditor) ⭐ 1,224 | 🐛 49 | 🌐 JavaScript | 📅 2019-02-21 - Electron based editor for Hexo
+* [Hexo Client](https://github.com/gaoyoubo/hexo-client) ⭐ 720 | 🐛 44 | 🌐 Vue | 📅 2023-01-27 - Cross-Platform Hexo Client
 * [Hexo Action](https://github.com/heowc/action-hexo) ⚠️ Archived - GitHub Action for Hexo
    
 
 ## Showcases
 
-* [Meteor](https://docs.meteor.com/) - Build JavaScript apps and websites using Meteor. [Source Code](https://github.com/meteor/meteor/tree/devel/docs) ⭐ 44,797 | 🐛 443 | 🌐 JavaScript | 📅 2026-11-05
-* [A list of sites created by Hexo](https://github.com/hexojs/hexo/wiki/Sites) ⭐ 41,777 | 🐛 82 | 🌐 TypeScript | 📅 2026-10-26 - Hexo wiki
-* [Litten](https://web.archive.org/web/20210617214124/http://litten.me/) - Hexo theme **Yilia** author Litten's personal blog. [Theme](https://github.com/litten/hexo-theme-yilia) ⭐ 8,334 | 🐛 461 | 🌐 JavaScript | 📅 2024-07-02
-* [Theme NexT](https://theme-next.org) - Hexo theme **NexT** official website. [Source Code](https://github.com/theme-next/hexo-theme-next) ⭐ 8,204 | 🐛 97 | 🌐 Stylus | 📅 2024-06-27 & [Awesome NexT](https://github.com/theme-next/awesome-next) ⭐ 113 | 🐛 6 | 📅 2020-04-02
+* [Meteor](https://docs.meteor.com/) - Build JavaScript apps and websites using Meteor. [Source Code](https://github.com/meteor/meteor/tree/devel/docs) ⭐ 44,798 | 🐛 443 | 🌐 JavaScript | 📅 2026-11-06
+* [A list of sites created by Hexo](https://github.com/hexojs/hexo/wiki/Sites) ⭐ 41,773 | 🐛 82 | 🌐 TypeScript | 📅 2026-10-26 - Hexo wiki
+* [Litten](https://web.archive.org/web/20210617214124/http://litten.me/) - Hexo theme **Yilia** author Litten's personal blog. [Theme](https://github.com/litten/hexo-theme-yilia) ⭐ 8,333 | 🐛 461 | 🌐 JavaScript | 📅 2024-07-02
+* [Theme NexT](https://theme-next.org) - Hexo theme **NexT** official website. [Source Code](https://github.com/theme-next/hexo-theme-next) ⭐ 8,205 | 🐛 97 | 🌐 Stylus | 📅 2024-06-27 & [Awesome NexT](https://github.com/theme-next/awesome-next) ⭐ 113 | 🐛 6 | 📅 2020-04-02
 * [Vue.js](https://v2.vuejs.org/) - The Progressive JavaScript Framework. [Source Code](https://github.com/vuejs/v2.vuejs.org) ⭐ 4,973 | 🐛 239 | 🌐 JavaScript | 📅 2024-07-02
-* [Hexo site](https://hexo.io/) - Hexo official site. [Source Code](https://github.com/hexojs/site) ⭐ 723 | 🐛 40 | 🌐 Stylus | 📅 2026-11-06
+* [Hexo site](https://hexo.io/) - Hexo official site. [Source Code](https://github.com/hexojs/site) ⭐ 723 | 🐛 41 | 🌐 Stylus | 📅 2026-11-07
 * [Barret Lee](https://www.barretlee.com/) - Barret Lee's personal website. [Source Code](https://github.com/barretlee/blog) ⭐ 181 | 🐛 414 | 🌐 HTML | 📅 2025-07-19
 * [Vuenut](https://lusaxweb.github.io/vuenut.org/) - Manipulate and visualize state management pattern in the case of vuejs (Vuex). [Source Code](https://github.com/lusaxweb/vuenut.org) ⭐ 2 | 🐛 0 | 🌐 HTML | 📅 2018-05-12
 * [Jeremy Shaw](https://blog.jeremyshaw.co.nz/) - Jeremy Shaw's custom personal blog. [Source Code](https://github.com/puremana/personal-blog) ⭐ 0 | 🐛 9 | 🌐 EJS | 📅 2026-08-09
@@ -97,4 +97,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
