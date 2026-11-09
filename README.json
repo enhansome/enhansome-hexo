@@ -47,7 +47,7 @@
             "open_issues": 44,
             "owner": "gaoyoubo",
             "repo": "hexo-client",
-            "stars": 720,
+            "stars": 719,
             "topics": [
               "electron",
               "electron-app",
@@ -106,7 +106,7 @@
             "open_issues": 448,
             "owner": "meteor",
             "repo": "meteor",
-            "stars": 44795,
+            "stars": 44796,
             "topics": [
               "build-system",
               "framework",
@@ -194,7 +194,7 @@
             "open_issues": 97,
             "owner": "theme-next",
             "repo": "hexo-theme-next",
-            "stars": 8205,
+            "stars": 8203,
             "topics": [
               "hexo",
               "hexo-theme",
@@ -236,7 +236,7 @@
             "id": 15822976,
             "language": "Stylus",
             "license": "MIT",
-            "last_commit": "2026-11-08T04:23:13Z",
+            "last_commit": "2026-11-09T04:36:25Z",
             "open_issues": 41,
             "owner": "hexojs",
             "repo": "site",
@@ -334,7 +334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T10:47:26.547Z",
+    "last_updated": "2026-11-09T12:10:52.043Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Hexo",
