@@ -102,11 +102,11 @@
             "id": 3214406,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-11T01:02:40Z",
+            "last_commit": "2026-11-11T18:54:47Z",
             "open_issues": 439,
             "owner": "meteor",
             "repo": "meteor",
-            "stars": 44797,
+            "stars": 44796,
             "topics": [
               "build-system",
               "framework",
@@ -138,10 +138,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-26T23:52:47Z",
-            "open_issues": 83,
+            "open_issues": 84,
             "owner": "hexojs",
             "repo": "hexo",
-            "stars": 41777,
+            "stars": 41778,
             "topics": [
               "hacktoberfest",
               "hexo",
@@ -194,7 +194,7 @@
             "open_issues": 97,
             "owner": "theme-next",
             "repo": "hexo-theme-next",
-            "stars": 8204,
+            "stars": 8203,
             "topics": [
               "hexo",
               "hexo-theme",
@@ -236,7 +236,7 @@
             "id": 15822976,
             "language": "Stylus",
             "license": "MIT",
-            "last_commit": "2026-11-11T04:39:30Z",
+            "last_commit": "2026-11-12T05:42:12Z",
             "open_issues": 44,
             "owner": "hexojs",
             "repo": "site",
@@ -334,7 +334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T11:28:38.029Z",
+    "last_updated": "2026-11-12T11:53:59.669Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Hexo",
