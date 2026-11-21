@@ -102,11 +102,11 @@
             "id": 3214406,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-20T12:03:30Z",
+            "last_commit": "2026-11-20T14:18:13Z",
             "open_issues": 454,
             "owner": "meteor",
             "repo": "meteor",
-            "stars": 44792,
+            "stars": 44793,
             "topics": [
               "build-system",
               "framework",
@@ -141,7 +141,7 @@
             "open_issues": 85,
             "owner": "hexojs",
             "repo": "hexo",
-            "stars": 41783,
+            "stars": 41784,
             "topics": [
               "hacktoberfest",
               "hexo",
@@ -169,7 +169,7 @@
             "open_issues": 461,
             "owner": "litten",
             "repo": "hexo-theme-yilia",
-            "stars": 8333,
+            "stars": 8334,
             "topics": [
               "hexo",
               "hexo-theme",
@@ -236,7 +236,7 @@
             "id": 15822976,
             "language": "Stylus",
             "license": "MIT",
-            "last_commit": "2026-11-20T05:40:31Z",
+            "last_commit": "2026-11-21T05:34:39Z",
             "open_issues": 43,
             "owner": "hexojs",
             "repo": "site",
@@ -334,7 +334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T12:13:54.989Z",
+    "last_updated": "2026-11-21T11:49:22.915Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Hexo",
