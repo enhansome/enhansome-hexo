@@ -106,7 +106,7 @@
             "open_issues": 454,
             "owner": "meteor",
             "repo": "meteor",
-            "stars": 44790,
+            "stars": 44791,
             "topics": [
               "build-system",
               "framework",
@@ -141,7 +141,7 @@
             "open_issues": 85,
             "owner": "hexojs",
             "repo": "hexo",
-            "stars": 41784,
+            "stars": 41782,
             "topics": [
               "hacktoberfest",
               "hexo",
@@ -236,8 +236,8 @@
             "id": 15822976,
             "language": "Stylus",
             "license": "MIT",
-            "last_commit": "2026-11-22T09:16:53Z",
-            "open_issues": 41,
+            "last_commit": "2026-11-23T09:47:20Z",
+            "open_issues": 42,
             "owner": "hexojs",
             "repo": "site",
             "stars": 723,
@@ -334,7 +334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T12:01:06.843Z",
+    "last_updated": "2026-11-23T13:42:32.748Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Hexo",
